@@ -15,7 +15,7 @@ import Home from './components/Home/Home';
 
 import HelloWorld from './components/HelloWorld/HelloWorld';
 
-import './styles/vendor/normalize.css';
+// import './styles/vendor/normalize.css';
 
 render((
   <Router>
